@@ -6,7 +6,7 @@ In an attempt to be the change one wants to see, namely a better ecosystem for a
 
 ## What is it?
 
-Riffline is a dual voice (for now) single oscillator supersaw type synthesizer plugin with a few modulation options and a switchable HP/LP filter.
+Riffline is a four voice single oscillator supersaw type synthesizer plugin with a few modulation options and a switchable HP/LP filter.
 
 ## Release status
 
@@ -18,9 +18,7 @@ Riffline is available for free, currently in the releases section of this reposi
 
 ## Known issues/limitations/what are we working on?
 
-- It's still a little CPU hungry which has made it difficult to add more voices. I'm trying to improve on the voicing structure so I can add more voices to it and lower the CPU usage.
-- Voice stealing currently works by rotating the voices, which can lead to unexpectedly cut notes if using it polyphonically with a MIDI keyboard/sequencer.
-- Note switching will introduce crackles when played reasonably fast with external MIDI keyboard/sequencer.
+- Voice stealing is still being improved
 
 ## Interface
 

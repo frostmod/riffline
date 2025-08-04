@@ -1,0 +1,18 @@
+Frostmod Audio Plugin License
+Version 1.0 – July 2025
+
+This plugin is provided free of charge for personal and commercial use in music production.
+
+You are permitted to:
+
+Use the plugin in your own music projects (including commercial releases)
+Share music created with the plugin
+Support development via optional donations
+You are not permitted to:
+
+Modify, reverse engineer, or decompile the plugin binary
+Redistribute the plugin in any form without prior written permission
+Include the plugin in software bundles or sell it as part of any product
+This software is provided as-is, without any warranties, express or implied. Use at your own risk.
+
+© 2025 Frostmod Audio. All rights reserved.
