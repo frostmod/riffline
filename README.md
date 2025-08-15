@@ -10,19 +10,17 @@ Riffline is a four voice single oscillator supersaw type synthesizer plugin with
 
 ## Release status
 
-Public beta
+1.0 Public release
 
 ## Availability
 
-Riffline is available for free, currently in the releases section of this repository while I work on a Frostmod Audio website. The intention is to keep this plugin as a free/donation plugin.
+Riffline is available now for free/pay what you want in the FrostMod Audio shop:
+https://payhip.com/b/aidtV
 
-## Known issues/limitations/what are we working on?
-
-- Voice stealing is still being improved
 
 ## Interface
 
-Still working on proper documentation which will be part of the 1.0 release. Controls are listed underneath each page below, with short descriptions numbered left to right 1-4:
+There's documentation bundled as part of the 1.0 release. Controls are also listed underneath each page below, with short descriptions numbered left to right 1-4:
 
 ### Page 1
 
@@ -56,7 +54,7 @@ LFO Settings
 Controls the AMP envelope which is an AHR envelope, Attack, Hold, and Release
 
 1. ATTACK - Attack of AMP envelope
-2. RESERVED
+2. DECAY - AMP envelope Decay length. If set to 0, the envelope will hold until released.
 3. RELEASE - Release of the AMP envelope
 4. RESERVED
 
@@ -72,6 +70,6 @@ Envelope 2 settings. Envelope 2 is a ADHR envelope which will hold if Decay is n
 ### Page 6
 
 1. OSC VOL - Controls the volume of the oscillator. Usefull when high resonance causes unwanted clipping
-2. RESERVED
-3. RESERVED
+2. DRIVE - Pre-filter drive
+3. DRV AMT - Dry/Wet control of pre-filter drive
 4. RESERVED
